@@ -1,38 +1,43 @@
 {
   "anthropics/skills": {
-    "stars": 181004,
+    "stars": 181927,
     "license": null,
     "archived": false
   },
   "aldegad/sprite-gen": {
-    "stars": 2795,
+    "stars": 2882,
     "license": "Apache-2.0",
     "archived": false
   },
   "SawyerHood/dev-browser": {
-    "stars": 6663,
+    "stars": 6668,
     "license": "MIT",
     "archived": false
   },
   "obra/superpowers": {
-    "stars": 298831,
+    "stars": 301510,
     "license": "MIT",
     "archived": false
   },
   "alirezarezvani/claude-skills": {
-    "stars": 28160,
+    "stars": 28356,
     "license": "MIT",
     "archived": false
   },
   "Jeffallan/claude-skills": {
-    "stars": 11864,
+    "stars": 11927,
     "license": "MIT",
     "archived": false
   },
   "nidhinjs/prompt-master": {
-    "stars": 14442,
+    "stars": 14585,
     "license": "MIT",
     "archived": false
   },
-  "_updated": "2026-10-14"
+  "_updated": "2026-10-18",
+  "Shaisolaris/solaris-dev-shop": {
+    "stars": 1,
+    "license": "MIT",
+    "archived": false
+  }
 }
